@@ -6,6 +6,8 @@
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
+  "dependencies": {
+    "azure-functions-core-tools": "^3.0.3904"
+  },
   "devDependencies": {}
 }
